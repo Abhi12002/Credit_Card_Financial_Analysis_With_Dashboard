@@ -109,17 +109,6 @@ Whenever new data is inserted into PostgreSQL, the dashboards are refreshed auto
 
 <hr/>
 
-<h2>📂 Project Structure</h2>
-<pre>
-📁 Credit-Card-Dashboard
- ├── data/                # PostgreSQL schema / sample dataset
- ├── dashboard/           # Power BI .pbix files
- ├── images/              # Dashboard screenshots
- ├── README.md            # Project documentation
-</pre>
-
-<hr/>
-
 <h2>📷 Screenshots</h2>
 <p><b>Customer Report</b></p>
 <img src="customer_report.png" alt="Customer Report" width="600"/>
